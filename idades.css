@@ -1,0 +1,12 @@
+        * {
+            bottom: 100%;
+    background: linear-gradient(to right,  #1bb198,  #2e2e2e) ;
+}
+.navbar {
+    color: #2e2e2e;
+    padding: 50px;
+}
+h3 {
+    padding-left: 360px;
+    color: #2e2e2e;
+}
